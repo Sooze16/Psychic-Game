@@ -1,0 +1,145 @@
+@font-face {
+	font-family: peanuts;
+	src: url(./PEANUTS_.TTF);
+}
+
+
+header {
+
+    background-image: url(../css/wet_snow/wet_snow.png);
+    color: #4aaaa5;
+    border: 5px solid #666666;
+    font-size: 50px;
+    font-family: peanuts;
+    padding: 4%;
+
+
+}
+
+
+
+body {font-family: peanuts;
+    color: #4aaaa5;
+    background-color: rgb(234, 237, 240);
+    text-align: center;
+    /* border: 5px solid #666666; */
+
+}
+
+
+.thumbnail {height: 400px;
+width: 500px;
+padding: 5px;
+margin-right: 10px;
+
+
+}
+.container {margin: 25px;
+    margin-left: 40px;
+    border: 5px solid #666666;
+    padding: 25px;
+    background-color:#4aaaa5;
+    
+
+}
+
+p {text-align: left;
+    margin-left: 130px;
+    font-size: 30px;
+    padding-top: 50px;
+    color: #ffffff;
+
+
+}
+p1 {text-align: center;
+    color: rgb(252, 199, 101);
+    font-size: 75px;
+    margin-left: 100px;
+
+}
+
+.gameboard {background-color: #ffffff;
+text-align: left;
+/* font-size: 50pts; */
+border: 5px solid #666666;
+padding: 25px;
+margin-top: 50px;
+margin-left: 300px;
+margin-right: 300px;
+
+}
+
+h2 {text-align: center;
+    font-size: 50px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+li {font-size: 20px;
+padding:10px;
+
+}
+
+.footer {border: 5px solid #666666;
+    padding-top: 25px;
+    padding-bottom: 0;
+    background-image: url(../css/wet_snow/wet_snow.png);
+
+
+
+}
+
+
+.logo {float: center;
+    margin-top: -30px;
+    margin-bottom: 25px;
+    height: 75px;
+    width: 200px;
+    border: 2px solid #666666;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
