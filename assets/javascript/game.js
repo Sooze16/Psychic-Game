@@ -63,6 +63,7 @@ document.onkeyup = function (event) {
     if (remainingGuesses === 0) {
       losses++
       document.querySelector("#losses").innerHTML = " " + losses
+      document.querySelector("#computerLetter").innerHTML = " " + computerLetter
       restart()
     }
 
@@ -95,4 +96,4 @@ function restart() {
   calculateComputer()
 }
 
-// start()
+start()
