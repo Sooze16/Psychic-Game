@@ -43,20 +43,20 @@ margin-right: 10px;
 
 }
 
-p {text-align: left;
+#intro {text-align: left;
     margin-left: 130px;
     font-size: 30px;
     padding-top: 50px;
     color: #ffffff;
-
-
+    
 }
-p1 {text-align: center;
+#p1 {text-align: center;
     color: rgb(252, 199, 101);
     font-size: 75px;
     margin-left: 100px;
 
 }
+
 
 .gameboard {background-color: #ffffff;
 text-align: left;
@@ -84,14 +84,19 @@ padding:10px;
     padding-top: 25px;
     padding-bottom: 0;
     background-image: url(../css/wet_snow/wet_snow.png);
+    
 
 
 
 }
+#cw {color: #4aaaa5;
+    font-family: peanuts;
+    font-size: 25px;
 
+}
 
 .logo {float: center;
-    margin-top: -30px;
+    margin-top: 10px;
     margin-bottom: 25px;
     height: 75px;
     width: 200px;
