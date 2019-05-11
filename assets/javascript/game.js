@@ -1,7 +1,9 @@
 
 
 
-
+window.onload = function() {
+  var context = new AudioContext();
+}
 
 
 //Working with Tutor to identify the variables and pseudocode the project - per Phil, I needed a var index = 0 that was missing from the code.
