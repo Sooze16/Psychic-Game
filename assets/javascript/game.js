@@ -81,7 +81,7 @@ function start() {
   console.log("start")
   document.querySelector("#wins").innerHTML = " 0"   //clear all the variables
   document.querySelector("#losses").innerHTML = " 0"   //clear all the variables
-  document.querySelector("#remainingGuesses").innerHTML = " 8"
+  document.querySelector("#remainingGuesses").innerHTML = " 9"
   calculateComputer()
 }
 
